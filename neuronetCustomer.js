@@ -118,8 +118,7 @@ var orderAgain = function() { //check if another order will be placed
         if (answer.orderAgain === "Yes") {
             displayDB(); //call table function and restart
         } else {
-            console.log("Goodbye...");
-            console.log("..........");
+            console.log("\nGoodbye___\n");
             process.exit(); //exit program
         }
     });
