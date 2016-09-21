@@ -98,7 +98,6 @@ var addInventory = function() {
         console.log("");
         console.table(['ID', 'Product', 'Department', 'Category', 'Price', "Quantity"], productData); //populate the table
     });
-    console.log("Now prompt");
     inquirer.prompt([{
         name: "id",
         type: "input",

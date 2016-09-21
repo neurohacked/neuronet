@@ -2,6 +2,14 @@ CREATE DATABASE neuronetDB;
 
 USE neuronetDB;
 
+CREATE TABLE `Departments` (
+  `DepartmentID` int(11) NOT NULL AUTO_INCREMENT,
+  `DepartmentName` varchar(50) NOT NULL DEFAULT '',
+  `OverHeadCosts` int(11) NOT NULL,
+  `TotalSales` int(11) NOT NULL,
+  PRIMARY KEY (`DepartmentID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
 CREATE TABLE `Products` (
   `ItemID` int(11) NOT NULL AUTO_INCREMENT,
   `ProductName` varchar(50) NOT NULL DEFAULT '',
@@ -10,7 +18,13 @@ CREATE TABLE `Products` (
   `Price` int(11) NOT NULL,
   `StockQuantity` int(11) NOT NULL,
   PRIMARY KEY (`ItemID`)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO `Departments` (`DepartmentID`, `DepartmentName`, `OverHeadCosts`, `TotalSales`)
+VALUES
+	(1,'Cyberware',950000,0),
+	(2,'Vehicles',2100000,0),
+	(3,'Matrix Gear',656000,0);
 
 INSERT INTO `Products` (`ItemID`, `ProductName`, `DepartmentName`, `CategoryName`, `Price`, `StockQuantity`)
 VALUES
