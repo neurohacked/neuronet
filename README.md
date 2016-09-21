@@ -1,2 +1,24 @@
-# neuronet
-An online marketplace for neuro enhancements and neuro-controlled gear.
+## Welcome to NeuroNet
+*An online marketplace for neuro enhancements and neuro-controlled gear.*
+
+#### To place an order as a customer:
+
+While connected to your neuralHub (bash), run
+
+```
+node neuronetCustomer.js
+```
+
+This will jack you into *NeuroNet* and list all available products for purchase.
+
+<img src="img/001.png" width="100%" alt="First Connection"/>
+
+Enter the ID number (listed in the leftmost column) of the product you would like to purchase. You will then be prompted to enter the number of units you would like.
+
+<img src="img/002.png" width="100%" alt="Item Selection"/>
+
+After you have entered the number of units you would like to purchase for your selected item, your order invoice will be displayed and you will be asked if you would like to order again.
+
+<img src="img/003.png" width="100%" alt="Order Invoice"/>
+
+Selecting **YES**, will start the order process again. Selecting **NO** will jack you out of NeuroNet
