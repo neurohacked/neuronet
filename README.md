@@ -55,6 +55,6 @@ From here, you can choose to:
 
 -
 
-<img src="img/009.png" width="65%" alt="Add New Product"/>
+<img src="img/009.png" width="65%" alt="Results from Add Inventory and Item"/>
 
-*Results from **Add to Inventory** and **Add New Product**.*
+*Results from Add to Inventory and Add New Product*
