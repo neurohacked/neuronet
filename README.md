@@ -11,15 +11,15 @@ node neuronetCustomer.js
 
 This will jack you into *NeuroNet* consumer portal and list all available products for purchase.
 
-<img src="img/001.png" width="75%" alt="First Connection"/>
+<img src="img/001.png" width="65%" alt="First Connection"/>
 
 Enter the ID number (listed in the leftmost column) of the product you would like to purchase. You will then be prompted to enter the number of units you would like.
 
-<img src="img/002.png" width="75%" alt="Item Selection"/>
+<img src="img/002.png" width="65%" alt="Item Selection"/>
 
 After you have entered the number of units you would like to purchase for your selected item, your order invoice will be displayed and you will be asked if you would like to order again.
 
-<img src="img/003.png" width="75%" alt="Order Invoice"/>
+<img src="img/003.png" width="65%" alt="Order Invoice"/>
 
 Selecting **YES**, will start the order process again. Selecting **NO** will jack you out of NeuroNet
 
@@ -32,3 +32,9 @@ node neuronetManager.js
 ```
 
 This will jack you into *NeuroNet* manager portal.
+
+<img src="img/004.png" width="65%" alt="Manager Portal"/>
+
+From here, you can choose to **View Products for Sale** to view all available products in NeuroNet.
+
+<img src="img/004.png" width="65%" alt="Manager Portal"/> 

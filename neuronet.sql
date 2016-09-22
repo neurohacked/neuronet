@@ -1,4 +1,4 @@
-CREATE DATABASE neuronetDB;
+/* CREATE DATABASE neuronetDB; */
 
 USE neuronetDB;
 
