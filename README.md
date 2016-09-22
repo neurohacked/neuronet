@@ -35,6 +35,26 @@ This will jack you into *NeuroNet* manager portal.
 
 <img src="img/004.png" width="65%" alt="Manager Portal"/>
 
-From here, you can choose to **View Products for Sale** to view all available products in NeuroNet.
+From here, you can choose to:
 
-<img src="img/004.png" width="65%" alt="Manager Portal"/> 
+**View Products for Sale** to view all available products in NeuroNet.
+
+<img src="img/005.png" width="65%" alt="View Products for Sale"/>
+
+**View Low Inventory**
+
+<img src="img/006.png" width="65%" alt="View Low Inventory"/>
+
+**Add to Inventory**
+
+<img src="img/007.png" width="65%" alt="Add to Inventory"/>
+
+**Add New Product**
+
+<img src="img/008.png" width="65%" alt="Add New Product"/>
+
+-
+
+<img src="img/009.png" width="65%" alt="Add New Product"/>
+
+*Results from **Add to Inventory** and **Add New Product***
