@@ -1,6 +1,7 @@
 # Welcome to NeuroNet
 *An online marketplace for neuro enhancements and neuro-controlled gear.*
 
+
 ### Consumer:
 
 To place an order on NeuroNet, while connected to your neuralHub (bash), run
@@ -23,6 +24,8 @@ After you have entered the number of units you would like to purchase for your s
 
 Selecting **YES**, will start the order process again. Selecting **NO** will jack you out of NeuroNet
 
+---
+
 ### Manager:
 
 To manage NeuroNet, while connected to your neuralHub (bash), run
@@ -31,13 +34,13 @@ To manage NeuroNet, while connected to your neuralHub (bash), run
 node neuronetManager.js
 ```
 
-This will jack you into *NeuroNet* manager portal.
+This will jack you into the *NeuroNet* manager portal.
 
 <img src="img/004.png" width="65%" alt="Manager Portal"/>
 
 From here, you can choose to:
 
-**View Products for Sale** to view all available products in NeuroNet.
+**View Products for Sale**
 
 <img src="img/005.png" width="65%" alt="View Products for Sale"/>
 
@@ -58,3 +61,32 @@ From here, you can choose to:
 <img src="img/009.png" width="65%" alt="Results from Add Inventory and Item"/>
 
 *Results from Add to Inventory and Add New Product*
+
+**Exit**
+To jack out of NueroNet Manager.
+
+---
+
+### Executive:
+
+To see how much profit we are making at NeuroNet and add more departments to interest our customers, while connected to your neuralHub (bash), run
+
+```
+node neuronetExecutive.js
+```
+
+This will jack you into the *NeuroNet* executive portal.
+
+From here, you can choose to:
+
+**View Product Sales by Department**
+
+<img src="img/010.png" width="65%" alt="View Product Sales"/>
+
+**Create New Department**
+
+<img src="img/011.png" width="65%" alt="View Product Sales"/>
+
+---
+
+Enjoy!
