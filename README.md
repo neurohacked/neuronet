@@ -10,7 +10,7 @@ To place an order on NeuroNet, while connected to your neuralHub (bash), run
 node neuronetCustomer.js
 ```
 
-This will jack you into *NeuroNet* consumer portal and list all available products for purchase.
+This will jack you into the *NeuroNet* consumer portal and list all available products for purchase.
 
 <img src="img/001.png" width="65%" alt="First Connection"/>
 
