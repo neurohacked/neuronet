@@ -63,7 +63,7 @@ From here, you can choose to:
 *Results from Add to Inventory and Add New Product*
 
 **Exit**
-To jack out of NueroNet Manager.
+To jack out of NueroNet Manager portal.
 
 ---
 
@@ -86,6 +86,9 @@ From here, you can choose to:
 **Create New Department**
 
 <img src="img/011.png" width="65%" alt="View Product Sales"/>
+
+**Exit**
+To jack out of NueroNet Executive portal.
 
 ---
 
