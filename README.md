@@ -92,4 +92,5 @@ To jack out of NueroNet Executive portal.
 
 ---
 
-Enjoy!
+## Future Development
+Main focus of future development at this time is creating a front end for the app.
